@@ -39,3 +39,7 @@ In). Storing IoT data(hashes) on IPFS(decentralized storage) by calling a smart 
 rendering them on the Home Page. <br/>
 Used Techs, Frameworks, and libraries: HTML5, CSS3, ReactJS, Bootstrap5,
 ReactjsPopup, Font-Awesome
+
+### Github Stats :
+![image](https://github.com/Grim-R3ap3r/Secure-IoT-Data-Access-Management-System-using-Blockchain/assets/62543734/cce14530-374b-490d-9334-33690bda8908)
+
