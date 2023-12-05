@@ -1,0 +1,95 @@
+.ViewVideo {
+  margin-top: 5rem;
+  margin-left: 67px;
+  display: flex;
+  width: calc(100vw - 67px);
+  height: calc(100vh - 4.4rem);
+}
+
+.ViewVideo_left {
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+}
+
+.ViewVideo_video {
+  width: 100%;
+  padding: 2em;
+  padding-bottom: 1em;
+  padding-right: 0;
+}
+
+.ViewVideo_title {
+  font-size: 2rem;
+  margin-bottom: 1em;
+}
+
+.ViewVideo_items span {
+  margin-left: 0.6em;
+  font-size: larger;
+  font-weight: bold;
+}
+
+.ViewVideo_items button {
+  padding: 0.5em 1em;
+  border: rgba(0, 0, 0, 0.5) 1px solid;
+}
+
+.ViewVideo_All_Button {
+  padding: 0.5em 1em;
+  background-color: rgb(207, 211, 227);
+  border: rgba(0, 0, 0, 0.5) 2px solid;
+  border-radius: 8px;
+  color: black;
+}
+
+.ViewVideo_All_Button:hover {
+  background-color: rgb(41, 34, 34);
+  color: white;
+}
+
+.ViewVideo_description {
+  margin-top: 1rem;
+  padding-left: 0.9em;
+  font-size: 2rem;
+  letter-spacing: 0.4px;
+}
+
+.ViewVideo_right {
+  width: 30%;
+}
+
+
+.allVideoButton {
+  position: absolute;
+  top: 4.4rem;
+  right: 2.2rem;
+  margin-top: 1rem;
+}
+
+.content input {
+  height: 3rem;
+  width: 88%;
+  margin: auto;
+  background-color: rgb(218, 233, 192);
+  margin-top: 2rem;
+}
+
+.content button {
+  margin-left: 12px;
+  height: 3rem;
+  width: 4.4rem;
+  /*padding: 0.5em 1em;*/
+  background-color: rgb(40, 103, 175);
+  border: rgba(0, 0, 0, 0.5) 2px solid;
+  border-radius: 8px;
+  color: white;
+}
+
+.content button:hover {
+  background-color: blue;
+}
+
+.content p {
+  margin-bottom: 1rem;
+}
